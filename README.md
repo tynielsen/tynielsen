@@ -1,11 +1,10 @@
-### Hi there! 👋 I'm Tyler Nielsen - UI &amp; Web Craftsman<br>I am a Web Engineer focused on front-end technologies
+### Hi there! 👋 I'm Tyler Nielsen - UI &amp; Web Craftsman :bowtie:<br>I am a Web Engineer focused on front-end technologies
 
 I specialize in:
 - technical &amp; content SEO
-- accessibility
 - responsive design
-- maintainability
-- simple, readable code
+- accessibility
+- maintainability with simple, readable code
 
 ```javascript
 const About_Me = {
