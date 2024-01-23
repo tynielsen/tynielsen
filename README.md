@@ -11,9 +11,9 @@ const About_Me = {
   pronouns: "he/him",
   code: { 'JavaScript', 'HTML', 'CSS' },
   technologies: {
-      "CSS Processors": { Sass, Less },
-      "JS Frameworks/Libraries": [ ReactJS, jQuery ],
-      "Task Runners": [ Grunt, Gulp ]
+      CSS_Processors: { Sass, Less },
+      JS_Frameworks_and_Libraries: { ReactJS, jQuery },
+      Task_Runners: { Grunt, Gulp }
   },
 };
 ```
