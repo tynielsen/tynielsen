@@ -10,7 +10,7 @@ I specialize in:
 ```javascript
 const About_Me = {
   pronouns: "he/him",
-  code: { JavaScript, HTML, CSS },
+  code: { 'JavaScript', 'HTML', 'CSS' },
   technologies: {
       "CSS Processors": { Sass, Less },
       "JS Frameworks/Libraries": [ ReactJS, jQuery ],
