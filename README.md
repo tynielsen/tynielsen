@@ -8,14 +8,16 @@ I specialize in:
 
 ```javascript
 const About_Me = {
-  pronouns: "he/him",
   code: { 'JavaScript', 'HTML', 'CSS' },
   technologies: {
-      CSS_Processors: { Sass, Less },
-      JS_Frameworks_and_Libraries: { ReactJS, jQuery },
-      Task_Runners: { Grunt, Gulp }
+    CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
+    JS_Libraries_and_Frameworks: { ReactJS, TypeScript, jQuery },
+    Toolbox: { Jira, iTerm, Trello, Workday },
+    Task_Runners: { Grunt, Gulp }
   },
+  pronouns: "he/him"
 };
+
 ```
 
 - [x] HTML
