@@ -1,4 +1,5 @@
-### 👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:<br>I am a Web Engineer focused on front-end technologies
+## 👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:
+### I am a Web Engineer focused on front-end technologies
 
 I specialize in:
 - technical &amp; content SEO
@@ -11,16 +12,15 @@ const About_Me = {
   Code: { 'JavaScript', 'HTML', 'CSS' },
   Technologies: {
     CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
-    JS_Libraries_and_Frameworks: { ReactJS, TypeScript, jQuery },
-    Toolbox: { Jira, iTerm, Trello, Workday },
-    Task_Runners: { Grunt, Gulp }
+    JS_Libraries_and_Frameworks: { ReactJS, TypeScript, Angular, jQuery, D3 },
+    Toolbox: { Discord, iTerm, Jira, PhotoShop, Sketch, Slack, Trello, Workday, }
   },
   Experience: {
     Established: "2009: I started developing for household names in '09 and haven't stopped.",
     Fin_Tech:   { 'SoFi' },
     Analytics:  { 'Adobe', 'Observe Point' },
     Agencies:   { 'Hydro Studios', 'Love Communications', 'Rain' },
-    Brands:     { "Arby's", "Campbell's Soup", "PepsiCo", "USGA" },
+    Brands:     { "Arby's", "Campbell's Soup", "PepsiCo", "USGA", "V8" },
     Summary: "I enjoy and excel at working with front-end tech: UI Architecture, HTML, CSS/Sass, JavaScript, RESTful API's!"
   }
 };
