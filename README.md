@@ -1,5 +1,7 @@
-## 👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:
-### I am a Web Engineer focused on front-end technologies
+<body style="background-color: #0c0c0c">
+<h2 style="padding-bottom: 15px">👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:</h2>
+
+<h3>I am a Web Engineer focused on front-end technologies</h3>
 
 I specialize in:
 - technical &amp; content SEO
@@ -48,3 +50,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Hi there 👋
 -->
+</body>
