@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Tyler Nielsen - UI &amp; Web Craftsman :bowtie:<br>I am a Web Engineer focused on front-end technologies
+### 👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:<br>I am a Web Engineer focused on front-end technologies
 
 I specialize in:
 - technical &amp; content SEO
@@ -8,14 +8,21 @@ I specialize in:
 
 ```javascript
 const About_Me = {
-  code: { 'JavaScript', 'HTML', 'CSS' },
-  technologies: {
+  Code: { 'JavaScript', 'HTML', 'CSS' },
+  Technologies: {
     CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
     JS_Libraries_and_Frameworks: { ReactJS, TypeScript, jQuery },
     Toolbox: { Jira, iTerm, Trello, Workday },
     Task_Runners: { Grunt, Gulp }
   },
-  pronouns: "he/him"
+  Experience: {
+    Established: "I started developing in 2009 and been working on household names ever since.",
+    Brands:     { "PepsiCo", "Campbell's Soup", "Arby's", "USGA", "Lays", "" }, // JavaScript, WordPress/PHP
+    Agencies:   { "Rain", "Love Communications", "Hydro" }, // WordPress, JavaScript, Sass
+    Analytics:  { "Adobe", "Observe Point" }, // WordPress/PHP, JavaScript
+    Fin_Tech:   { "SoFi" }, // ReactJS, TypeScript, Sass, Jest, Enzyme
+    Summary: "I enjoy and excel working with the Front-End: UI Architecture, HTML, CSS/Sass, JavaScript, RESTful API's!"
+  }
 };
 
 ```
