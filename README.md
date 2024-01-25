@@ -16,11 +16,11 @@ const About_Me = {
     Task_Runners: { Grunt, Gulp }
   },
   Experience: {
-    Established: "I started developing in 2009 and been working on household names ever since.",
-    Fin_Tech:   { SoFi },
-    Analytics:  { Adobe, Observe Point },
-    Agencies:   { Rain, Love Communications, Hydro Studios },
-    Brands:     { PepsiCo, Campbell's Soup, Arby's, USGA },
+    Established: "2009: I started developing for household names in '09 and haven't stopped.",
+    Fin_Tech:   { 'SoFi' },
+    Analytics:  { 'Adobe', 'Observe Point' },
+    Agencies:   { 'Hydro Studios', 'Love Communications', 'Rain' },
+    Brands:     { "Arby's", "Campbell's Soup", "PepsiCo", "USGA" },
     Summary: "I enjoy and excel at working with front-end tech: UI Architecture, HTML, CSS/Sass, JavaScript, RESTful API's!"
   }
 };
@@ -29,7 +29,7 @@ const About_Me = {
 
 - [x] HTML
 - [x] CSS
-- [x] JavaScript
+- [x] JavaScript (ES6+)
 
 
 
