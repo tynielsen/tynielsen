@@ -17,10 +17,10 @@ const About_Me = {
   },
   Experience: {
     Established: "I started developing in 2009 and been working on household names ever since.",
-    Fin_Tech:   { "SoFi" },
-    Analytics:  { "Adobe", "Observe Point" },
-    Agencies:   { "Rain", "Love Communications", "Hydro Studios" },
-    Brands:     { "PepsiCo", "Campbell's Soup", "Arby's", "USGA" },
+    Fin_Tech:   { SoFi },
+    Analytics:  { Adobe, Observe Point },
+    Agencies:   { Rain, Love Communications, Hydro Studios },
+    Brands:     { PepsiCo, Campbell's Soup, Arby's, USGA },
     Summary: "I enjoy and excel at working with front-end tech: UI Architecture, HTML, CSS/Sass, JavaScript, RESTful API's!"
   }
 };
