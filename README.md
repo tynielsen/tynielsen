@@ -4,10 +4,11 @@
 <h3>I am a Web Engineer focused on front-end technologies</h3>
 
 I specialize in:
-- technical &amp; content SEO
-- responsive design
-- accessibility
-- maintainability with simple, readable code
+- [x] HTML, CSS, &amp; JavaScript (ES6+)
+- [x] technical &amp; content SEO
+- [x] responsive design
+- [x] accessibility
+- [x] maintainability with simple, readable code
 
 ```javascript
 const About_Me = {
@@ -28,10 +29,6 @@ const About_Me = {
 };
 
 ```
-
-- [x] HTML
-- [x] CSS
-- [x] JavaScript (ES6+)
 
 
 
