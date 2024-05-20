@@ -5,21 +5,23 @@
 
 I specialize in:
 - [x] HTML, CSS, &amp; JavaScript (ES6+)
-- [x] technical &amp; content SEO
-- [x] responsive design
-- [x] accessibility
-- [x] maintainability with simple, readable code
+- [x] Advanced <ins>User Interface (UI) Architecture</ins>
+- [x] User Experience (UX) Design &amp; Development
+- [x] Technical &amp; Content SEO
+- [x] Responsive Design
+- [x] Accessibility
+- [x] Advanced Focus on Maintainability w/Simple, Readable CODE
 
 ```javascript
 const About_Me = {
-  Code: { 'JavaScript', 'HTML', 'CSS' },
+  Code: { 'JavaScript', 'HTML', 'CSS' }, // The latest version 
   Technologies: {
     CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
     JS_Libraries_and_Frameworks: { ReactJS, TypeScript, Angular, jQuery, D3 },
     Toolbox: { Discord, iTerm, Jira, PhotoShop, Sketch, Slack, Trello, Workday, }
   },
   Experience: {
-    Established: "2009: I started developing for household names in '09 and haven't stopped.",
+    Established: "2009: I started developing for household names in '09 and still going strong.",
     Fin_Tech:   { 'SoFi' },
     Analytics:  { 'Adobe', 'Observe Point' },
     Agencies:   { 'Hydro Studios', 'Love Communications', 'Rain' },
