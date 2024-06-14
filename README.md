@@ -3,7 +3,7 @@
   <h2 style="padding-bottom: 15px">👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:</h2>
 </div>
 
-<h3>A dedicated Web Engineer specializing in front-end technologies, with a strong emphasis on User Interface (UI) Architecture. With a blend of knowledge, experience, and passion, I am committed to pushing the boundaries of UI excellence and driving impactful results for projects and teams.</h3>
+<h3>As a dedicated UI Architect, I spearhead the pursuit of excellence in UI architecture, delivering impactful results for projects and teams through innovation and meticulous attention to detail.</h3>
 
 I specialize in:
 - [x] HTML, CSS, &amp; JavaScript (ES6+)
