@@ -1,5 +1,7 @@
 <body style="background-color: #0c0c0c">
-<h2 style="padding-bottom: 15px">👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:</h2>
+<div style="padding: 20px; background-color: lightblue;">
+  <h2 style="padding-bottom: 15px">👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:</h2>
+</div>
 
 <h3>I am a Web Engineer focused on front-end technologies</h3>
 
@@ -14,19 +16,21 @@ I specialize in:
 
 ```javascript
 const About_Me = {
-  Code: { 'JavaScript', 'HTML', 'CSS' }, // The latest version 
+  Code: { 'JavaScript', 'HTML', 'CSS' }, // The latest version(s)
   Technologies: {
     CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
     JS_Libraries_and_Frameworks: { ReactJS, TypeScript, Angular, jQuery, D3 },
-    Toolbox: { Discord, iTerm, Jira, PhotoShop, Sketch, Slack, Trello, Workday, }
+    Toolbox: { iTerm_Terminal, VSCode, Confluence_Jira_Trello, PhotoShop_Sketch, Slack_Discord, GitHub_Bitbucket, Workday, Scrum_Master, Agile_Methodologies }
   },
   Experience: {
-    Established: "2009: I started developing for household names in '09 and still going strong.",
-    Fin_Tech:   { 'SoFi' },
-    Analytics:  { 'Adobe', 'Observe Point' },
-    Agencies:   { 'Hydro Studios', 'Love Communications', 'Rain' },
-    Brands:     { "Arby's", "Campbell's Soup", "PepsiCo", "USGA", "V8" },
-    Summary: "I enjoy and excel at working with front-end tech: UI Architecture, HTML, CSS/Sass, JavaScript, RESTful API's!"
+    Established: "2009: I began working on global and household names in '09 and haven't stopped since. In fact, I received job offers and was hired before completing a degree in computer science – even before actually applying anywhere.",
+    Projects: {
+      - Fin_Tech:   { 'SoFi' },
+      - Analytics:  { 'Adobe', 'Observe Point' },
+      - Agencies:   { 'Hydro Studios', 'Love Communications', 'Rain' },
+      - Brands:     { "Arby's", "Campbell's Soup", "PepsiCo", "USGA (US Golf Assoc.)", "V8 Juice" },
+    },
+    Summary: "I enjoy and specialize in front-end tech: graphical user interface (GUI/UI) architecture, HTML, CSS/Sass, JavaScript, RESTful APIs, responsive design/layout, user experience (UX), quality assurance (QA) and testing, test-driven development (TDD) with Jest, Enzyme, and Cypress."
   }
 };
 
