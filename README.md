@@ -16,7 +16,7 @@ Majority of experience is in:
 
 ```javascript
 const About_Me = {
-	Code: { 'JavaScript', 'HTML', 'CSS' }, // I actively stay up-to-date on these languages with the utmost releases, trends, and best practices.
+  Code: { 'JavaScript', 'HTML', 'CSS' }, // I actively stay up-to-date on these languages with the utmost releases, trends, and best practices.
 
 	Additional_Technologies: {
 		CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
