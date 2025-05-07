@@ -17,20 +17,23 @@ Majority of experience is in:
 ```javascript
 const About_Me = {
 	Code: { 'JavaScript', 'HTML', 'CSS' }, // I actively stay up-to-date on these languages with the utmost releases, trends, and best practices.
-		Additional_Technologies: {
-			CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
-			JS_Libraries_and_Frameworks: { ReactJS, TypeScript, Angular, jQuery, D3 },
-			Toolbox: {{ Terminal }, { Visual_Studio_Code }, { Confluence, Jira, Trello }, { PhotoShop, Sketch, Figma }, { Slack, Discord }, { git: { GitHub, Bitbucket }}, { Workday }, { Scrum_Master }, { Agile_Methodologies }}
+
+	Additional_Technologies: {
+		CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
+		JS_Libraries_and_Frameworks: { ReactJS, TypeScript, Angular, jQuery, D3 },
+		Toolbox: {{ Terminal }, { Visual_Studio_Code }, { Confluence, Jira, Trello }, { PhotoShop, Sketch, Figma }, { Slack, Discord }, { git: { GitHub, Bitbucket }}, { Workday }, { Scrum_Master }, { Agile_Methodologies }}
+	},
+
+	Experience: {
+		Established: "2009: I began working on global and household names and haven't stopped since. In fact, I received job offers and was hired before completing a degree in Computer Science – before I ever actually applied anywhere.",
+		Projects: {
+			- Financial_Technology:	{ 'SoFi - Custom Styled Component Library, Personal Loan Application' },
+			- Digital_Agencies:		{ 'Hydro Studios', 'Love Communications', 'Rain' },
+			- Analytics:			{ 'Adobe (@Rain)', 'Observe Point (@Freelance)' },
+			- Brands:				{ "Arby's (@Rain)", "Campbell's Soup (@Rain)", "PepsiCo (@Rain)", "USGA (US Golf Assoc.)('@Hydro Studios')", "V8 Juice (@Rain)" },
 		},
-		Experience: {
-			Established: "2009: I began working on global and household names and haven't stopped since. In fact, I received job offers and was hired before completing a degree in Computer Science – before I ever actually applied anywhere.",
-			Projects: {
-				- Financial_Technology:	{ 'SoFi - Custom Styled Component Library, Personal Loan Application' },
-				- Digital_Agencies:		{ 'Hydro Studios', 'Love Communications', 'Rain' },
-				- Analytics:			{ 'Adobe (@Rain)', 'Observe Point (@Freelance)' },
-				- Brands:				{ "Arby's (@Rain)", "Campbell's Soup (@Rain)", "PepsiCo (@Rain)", "USGA (US Golf Assoc.)('@Hydro Studios')", "V8 Juice (@Rain)" },
-			},
-			Summary: "I enjoy front-end development: graphical user interface (GUI/UI) architecture, HTML, CSS/Sass, JavaScript(ES6+), RESTful APIs, responsive/mobile design, user experience (UX), quality assurance (QA) and testing, test-driven development (TDD) with Jest, Enzyme, and Cypress. I'm also a big advocate for continuous integration continuous deployment/development."
+
+		Summary: "I enjoy front-end development: graphical user interface (GUI/UI) architecture, HTML, CSS/Sass, JavaScript(ES6+), RESTful APIs, responsive/mobile design, user experience (UX), quality assurance (QA) and testing, test-driven development (TDD) with Jest, Enzyme, and Cypress. I'm also a big advocate for continuous integration continuous deployment/development."
 	}
 };
 
