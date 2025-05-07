@@ -1,37 +1,37 @@
 <body style="background-color: #0c0c0c">
 <div style="padding: 20px; background-color: lightblue;">
-  <h2 style="padding-bottom: 15px">👋 I'm Tyler - UI &amp; Web Craftsman :bowtie:</h2>
+	<h2 style="padding-bottom: 15px">👋 I'm Tyler, a UI &amp; Web Craftsman :bowtie:</h2>
 </div>
 
-<h3>As a dedicated UI Architect, I spearhead the pursuit of excellence in UI architecture, delivering impactful results for projects and teams through innovation and meticulous attention to detail.</h3>
+<h3>As a dedicated user interface architect, I strive to be the tip of the spearhead in the pursuit of UI excellence, delivering elegent results that leave a lasting impact through innovation and meticulous attention to detail.</h3>
 
-I specialize in:
-- [x] HTML, CSS, &amp; JavaScript (ES6+)
-- [x] Advanced <ins>User Interface (UI) Architecture</ins>
-- [x] User Experience (UX) Design &amp; Development
-- [x] Technical &amp; Content SEO
-- [x] Responsive Design
-- [x] Accessibility
-- [x] Advanced Focus on Maintainability w/Simple, Readable CODE
+Majority of experience is in:
+- [x] HTML, CSS, &amp; JavaScript
+- [x] Advanced <ins>User Interface Architecture</ins>
+- [x] Content &amp; technical search engine optimization (SEO)
+- [x] Responsive/Mobile design
+- [x] Accessibility &amp; WCAG compliance
+- [x] Quality Assurance &amp; User Experience: Integrating &amp; monitoring A/B tests &amp; other experiments to help identify areas to improve as well as issues to address.
+- [x] Advanced focus on maintainability with simple &amp; readable code via iteration &amp; continuous integration/continuous deployment; always looking for ways to optimize the codebase and loading times.
 
 ```javascript
 const About_Me = {
-  Code: { 'JavaScript', 'HTML', 'CSS' }, // The latest version(s)
-  Technologies: {
-    CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
-    JS_Libraries_and_Frameworks: { ReactJS, TypeScript, Angular, jQuery, D3 },
-    Toolbox: { iTerm_Terminal, VSCode, Confluence_Jira_Trello, PhotoShop_Sketch, Slack_Discord, GitHub_Bitbucket, Workday, Scrum_Master, Agile_Methodologies }
-  },
-  Experience: {
-    Established: "2009: I began working on global and household names in '09 and haven't stopped since. In fact, I received job offers and was hired before completing a degree in computer science – even before actually applying anywhere.",
-    Projects: {
-      - Fin_Tech:   { 'SoFi' },
-      - Analytics:  { 'Adobe', 'Observe Point' },
-      - Agencies:   { 'Hydro Studios', 'Love Communications', 'Rain' },
-      - Brands:     { "Arby's", "Campbell's Soup", "PepsiCo", "USGA (US Golf Assoc.)", "V8 Juice" },
-    },
-    Summary: "I enjoy and specialize in front-end tech: graphical user interface (GUI/UI) architecture, HTML, CSS/Sass, JavaScript, RESTful APIs, responsive design/layout, user experience (UX), quality assurance (QA) and testing, test-driven development (TDD) with Jest, Enzyme, and Cypress."
-  }
+	Code: { 'JavaScript', 'HTML', 'CSS' }, // I actively stay up-to-date on these languages with the utmost releases, trends, and best practices.
+		Additional_Technologies: {
+			CSS_Processors_and_Frameworks: { Sass, Less, Tailwind, Skeleton, Boilerplate },
+			JS_Libraries_and_Frameworks: { ReactJS, TypeScript, Angular, jQuery, D3 },
+			Toolbox: {{ Terminal }, { Visual_Studio_Code }, { Confluence, Jira, Trello }, { PhotoShop, Sketch, Figma }, { Slack, Discord }, { git: { GitHub, Bitbucket }}, { Workday }, { Scrum_Master }, { Agile_Methodologies }}
+		},
+		Experience: {
+			Established: "2009: I began working on global and household names and haven't stopped since. In fact, I received job offers and was hired before completing a degree in Computer Science – before I ever actually applied anywhere.",
+			Projects: {
+				- Financial_Technology:	{ 'SoFi - Custom Styled Component Library, Personal Loan Application' },
+				- Digital_Agencies:		{ 'Hydro Studios', 'Love Communications', 'Rain' },
+				- Analytics:			{ 'Adobe (@Rain)', 'Observe Point (@Freelance)' },
+				- Brands:				{ "Arby's (@Rain)", "Campbell's Soup (@Rain)", "PepsiCo (@Rain)", "USGA (US Golf Assoc.)('@Hydro Studios')", "V8 Juice (@Rain)" },
+			},
+			Summary: "I enjoy front-end development: graphical user interface (GUI/UI) architecture, HTML, CSS/Sass, JavaScript(ES6+), RESTful APIs, responsive/mobile design, user experience (UX), quality assurance (QA) and testing, test-driven development (TDD) with Jest, Enzyme, and Cypress. I'm also a big advocate for continuous integration continuous deployment/development."
+	}
 };
 
 ```
